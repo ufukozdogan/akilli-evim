@@ -8,7 +8,7 @@
 * Gerekli işlemler için JFreeChart, RXTX kütüphaneleri kullanılmıştır.
 
 
-### Yapabildikleri
+### Programın Yapabildikleri
 * Arduino üzerine takılı ışık ve sıcaklık sensörlerinin değerlerini, gerçek zamanlı olarak ekranda gösterir ve aynı zamanda veritabanına kaydeder.
 * Kaydedilen bu verilere bilgi merkezi aracılığıyla kolaylıkla ulaşabilir. Gün ne zaman aydınlandı, karardı veya tüm istatistikler gibi butonlar fonksiyonel olarak çalışmaktadır.
 * Mobil uygulama sayesinde Bluetooth modülüne bağlanıp dinamik olarak anlık sensör verisini görülebilir, aynı zamanda da board'a bağlı LED yakıp, kapatılabilir.
