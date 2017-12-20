@@ -1,5 +1,7 @@
 # akilli-evim
 
+# Arduino ile Tasarlanmış Güvenli/Akıllı Ev Sistemi
+
 ### Kaynaklar ve Ekipman
 * Uygulama; Arduino IDE, Netbeans ve MySQL kullanılarak tasarlanmıştır.
 * Kullanılan Arduino sensörleri ise Sıcaklık(LM35), LDR, Bluetooth ve Buzzer şeklindedir.
